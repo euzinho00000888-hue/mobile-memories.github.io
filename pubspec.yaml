@@ -1,0 +1,11 @@
+name: mobile_memories
+description: Site oficial do mod Mobile Memories (Friday Night Funkin'), feito em Dart.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  build_runner: ^2.4.13
+  build_web_compilers: ^4.0.11
